@@ -1,0 +1,29 @@
+/* this ia an external style*/
+
+p{
+    font-size: 24px;
+    color: coral;
+}
+
+#para1{
+    color: darkgreen;
+    background-color: black;
+}
+#para2{
+    color: darkturquoise;
+    background-image: url(img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.font1{
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#para3{
+    border-width: 5px;
+    border-style: groove;
+    border-color: brown;
+    border-radius: 15px;
+}
